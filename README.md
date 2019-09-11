@@ -1,6 +1,6 @@
 # mcgonagle/hovercraft-101 
 
-[![Docker Automated Build](https://img.shields.io/docker/automated/phpcommunity/hovercraft.svg?style=flat-square)](https://hub.docker.com/r/phpcommunity/hovercraft/) [![Apache-2.0 License](https://img.shields.io/github/license/phpcommunity/docker-hovercraft.svg?style=flat-square)](https://github.com/phpcommunity/docker-hovercraft/blob/master/LICENSE) [![Docker Build Status](https://img.shields.io/docker/build/phpcommunity/hovercraft.svg?style=flat-square)](https://hub.docker.com/r/phpcommunity/hovercraft/builds/)
+[![Docker Automated Build](https://img.shields.io/docker/automated/mcgonagle/docker-hovercraft.svg?style=flat-square)](https://hub.docker.com/r/mcgonagle/docker-hovercraft/) [![Apache-2.0 License](https://img.shields.io/github/license/mcgonagle/docker-hovercraft.svg?style=flat-square)](https://github.com/mcgonagle/docker-hovercraft/blob/master/LICENSE) [![Docker Build Status](https://img.shields.io/docker/build/mcgonagle/hovercraft.svg?style=flat-square)](https://hub.docker.com/r/mcgonagle/docker-hovercraft/builds/)
 
 This is a basic Docker image for building and locally previewing [Hovercraft](https://github.com/regebro/hovercraft) presentations. The image is available for public use on Docker Hub at [mcgonagle/docker-hovercraft](https://hub.docker.com/r/mcgonagle/docker-hovercraft/).
 
